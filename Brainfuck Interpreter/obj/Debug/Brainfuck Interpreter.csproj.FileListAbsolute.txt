@@ -1,0 +1,7 @@
+C:\Users\Will Burland\source\repos\Brainfuck Interpreter\Brainfuck Interpreter\bin\Debug\Brainfuck Interpreter.exe.config
+C:\Users\Will Burland\source\repos\Brainfuck Interpreter\Brainfuck Interpreter\bin\Debug\Brainfuck Interpreter.exe
+C:\Users\Will Burland\source\repos\Brainfuck Interpreter\Brainfuck Interpreter\bin\Debug\Brainfuck Interpreter.pdb
+C:\Users\Will Burland\source\repos\Brainfuck Interpreter\Brainfuck Interpreter\obj\Debug\Brainfuck Interpreter.csprojAssemblyReference.cache
+C:\Users\Will Burland\source\repos\Brainfuck Interpreter\Brainfuck Interpreter\obj\Debug\Brainfuck Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Will Burland\source\repos\Brainfuck Interpreter\Brainfuck Interpreter\obj\Debug\Brainfuck Interpreter.exe
+C:\Users\Will Burland\source\repos\Brainfuck Interpreter\Brainfuck Interpreter\obj\Debug\Brainfuck Interpreter.pdb
