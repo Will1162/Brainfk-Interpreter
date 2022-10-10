@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/github/repo-size/Will1162/Brainfk-Interpreter"/> <img src="https://img.shields.io/tokei/lines/github/Will1162/Brainfk-Interpreter"/> <img src="https://img.shields.io/github/downloads/Will1162/Brainfk-Interpreter/total"/> <img src="https://img.shields.io/github/last-commit/Will1162/Brainfk-Interpreter"/>
 
-# Brain**k Interpreter
+# Brainf**k Interpreter
 
 ## About the project
 
